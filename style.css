@@ -2,6 +2,11 @@
     color: #777777;
 }
 
+.course-border {
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
 .mt {
     margin-top: 100px;
 }
